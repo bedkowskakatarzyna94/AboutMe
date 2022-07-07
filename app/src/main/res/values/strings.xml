@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Kasia</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Kasia.\n\nThe Lorem ipsum.
+        \n\nThe Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+        \n\nut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+        \n\nlaboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+        \n\nv oluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+        \n\ncupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
